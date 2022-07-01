@@ -26,3 +26,5 @@
 3) Собрать .apk файл и установить на реальном телефоне.
 4) Создать Smoke чеклист для прооверки приложения ToDo List
 6) Создать critical path test чеклист для проверки приложения ToDo List
+
+### Сылка на выполненную работу [Mobile testing ToDo List](https://docs.google.com/spreadsheets/d/1peFa_nn1p3rtQANO9KRa7dw5Yo3Uu7D_/edit?usp=sharing&ouid=113486377289923594358&rtpof=true&sd=true)
