@@ -22,8 +22,13 @@
 ## HW_2 Mobile testing Android
 
 1) Собрать приложение на эмуляторе
+![studio64_dGXxPwsx8N](https://user-images.githubusercontent.com/83860199/177025357-77282421-5087-40e2-b190-acfd14394d8f.png)
+
 2) Собрать приложение на реальном телефоне
+
 3) Собрать .apk файл и установить на реальном телефоне.
+
+https://drive.google.com/file/d/1j12_IMW12O-PsNY3825G1NKNHtQUdSRR/view?usp=sharing
 4) Создать Smoke чеклист для прооверки приложения ToDo List
 6) Создать critical path test чеклист для проверки приложения ToDo List
 
