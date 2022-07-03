@@ -1,7 +1,7 @@
 # Mobile-testing
  ## HW_1 Mobile
 
-Создать следующие чеклисты.
+Создать следующие чеклисты:
 
  1. Чек лист проверок мобильного приложения, минимум 50 пунктов. Можете сделать отдельные чек листы для проверки конкретных мобильных приложений (Банковское приложение, игра, фитнес, фото, и т.п.)
  2. Чек лист iOS App Store Review Guidelines, 15-20 кейсов - https://developer.apple.com/app-store/review/guidelines/
@@ -27,4 +27,4 @@
 4) Создать Smoke чеклист для прооверки приложения ToDo List
 6) Создать critical path test чеклист для проверки приложения ToDo List
 
-### Ссылка на выполненную работу [Mobile testing ToDo List](https://docs.google.com/spreadsheets/d/1peFa_nn1p3rtQANO9KRa7dw5Yo3Uu7D_/edit?usp=sharing&ouid=113486377289923594358&rtpof=true&sd=true)
+### Ссылка на выполненную работу - [Mobile testing ToDo List](https://docs.google.com/spreadsheets/d/1peFa_nn1p3rtQANO9KRa7dw5Yo3Uu7D_/edit?usp=sharing&ouid=113486377289923594358&rtpof=true&sd=true)
